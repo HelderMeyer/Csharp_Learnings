@@ -1,0 +1,7 @@
+C:\Users\ba10185\Desktop\Projects\Takeaways\MoraIfStatements\MoraIfStatements\bin\Debug\MoraIfStatements.exe.config
+C:\Users\ba10185\Desktop\Projects\Takeaways\MoraIfStatements\MoraIfStatements\bin\Debug\MoraIfStatements.exe
+C:\Users\ba10185\Desktop\Projects\Takeaways\MoraIfStatements\MoraIfStatements\bin\Debug\MoraIfStatements.pdb
+C:\Users\ba10185\Desktop\Projects\Takeaways\MoraIfStatements\MoraIfStatements\obj\Debug\MoraIfStatements.csproj.AssemblyReference.cache
+C:\Users\ba10185\Desktop\Projects\Takeaways\MoraIfStatements\MoraIfStatements\obj\Debug\MoraIfStatements.csproj.CoreCompileInputs.cache
+C:\Users\ba10185\Desktop\Projects\Takeaways\MoraIfStatements\MoraIfStatements\obj\Debug\MoraIfStatements.exe
+C:\Users\ba10185\Desktop\Projects\Takeaways\MoraIfStatements\MoraIfStatements\obj\Debug\MoraIfStatements.pdb

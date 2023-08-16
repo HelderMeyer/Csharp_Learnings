@@ -1,0 +1,7 @@
+C:\Users\ba10185\Desktop\Projects\Takeaways\Exercise3\Exercise3\bin\Debug\Exercise3.exe.config
+C:\Users\ba10185\Desktop\Projects\Takeaways\Exercise3\Exercise3\bin\Debug\Exercise3.exe
+C:\Users\ba10185\Desktop\Projects\Takeaways\Exercise3\Exercise3\bin\Debug\Exercise3.pdb
+C:\Users\ba10185\Desktop\Projects\Takeaways\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.AssemblyReference.cache
+C:\Users\ba10185\Desktop\Projects\Takeaways\Exercise3\Exercise3\obj\Debug\Exercise3.csproj.CoreCompileInputs.cache
+C:\Users\ba10185\Desktop\Projects\Takeaways\Exercise3\Exercise3\obj\Debug\Exercise3.exe
+C:\Users\ba10185\Desktop\Projects\Takeaways\Exercise3\Exercise3\obj\Debug\Exercise3.pdb
