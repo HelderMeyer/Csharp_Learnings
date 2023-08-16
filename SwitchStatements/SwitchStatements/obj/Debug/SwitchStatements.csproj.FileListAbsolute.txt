@@ -1,0 +1,7 @@
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.csproj.AssemblyReference.cache
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.csproj.CoreCompileInputs.cache
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.exe.config
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.exe
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\SwitchStatements\SwitchStatements\bin\Debug\SwitchStatements.pdb
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.exe
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\SwitchStatements\SwitchStatements\obj\Debug\SwitchStatements.pdb
