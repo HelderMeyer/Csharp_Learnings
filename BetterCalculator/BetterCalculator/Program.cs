@@ -17,8 +17,16 @@ namespace BetterCalculator
             string myOperator = Console.ReadLine();
             Console.Write("Enter another number: ");
             double secondNumber = Convert.ToDouble(Console.ReadLine());
-            double result = Calculator(firstNumber,secondNumber,myOperator);
-            Console.WriteLine("\nThe result of " + firstNumber + " " +  myOperator + " " +  secondNumber + " is " + result);
+            double result = Calculator(firstNumber, secondNumber, myOperator);
+            if (myOperator == "+" || myOperator == "-" || myOperator == "*" || myOperator == "/" || myOperator == "^")
+            {
+                Console.WriteLine("\nThe result of " + firstNumber + " " + myOperator + " " + secondNumber + " is " + result);
+
+            }
+            else
+            {
+                Console.WriteLine("Invalid Operator");
+            }
             Console.ReadLine();
         }
 
@@ -28,22 +36,25 @@ namespace BetterCalculator
             if (myOperator == "+")
             {
                 result = firstNumber + secondNumber;
-            }else if(myOperator == "-")
+            }
+            else if (myOperator == "-")
             {
                 result = firstNumber - secondNumber;
-            }else if(myOperator == "*")
+            }
+            else if (myOperator == "*")
             {
                 result = firstNumber * secondNumber;
-            }else if(myOperator == "/")
+            }
+            else if (myOperator == "/")
             {
                 result = firstNumber / secondNumber;
-            }else if(myOperator == "^")
+            }
+            else if (myOperator == "^")
             {
                 result = Math.Pow(firstNumber, secondNumber);
             }
             else
             {
-                Console.WriteLine("Invalid Operator");
                 return 0;
             }
             return result;
