@@ -1,0 +1,7 @@
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\BetterCalculator\BetterCalculator\obj\Debug\BetterCalculator.csproj.AssemblyReference.cache
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\BetterCalculator\BetterCalculator\obj\Debug\BetterCalculator.csproj.CoreCompileInputs.cache
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\BetterCalculator\BetterCalculator\bin\Debug\BetterCalculator.exe.config
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\BetterCalculator\BetterCalculator\bin\Debug\BetterCalculator.exe
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\BetterCalculator\BetterCalculator\bin\Debug\BetterCalculator.pdb
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\BetterCalculator\BetterCalculator\obj\Debug\BetterCalculator.exe
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\BetterCalculator\BetterCalculator\obj\Debug\BetterCalculator.pdb
