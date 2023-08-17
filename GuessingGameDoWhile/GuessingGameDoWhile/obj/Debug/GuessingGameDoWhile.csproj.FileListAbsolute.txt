@@ -1,0 +1,7 @@
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\GuessingGameDoWhile\GuessingGameDoWhile\bin\Debug\GuessingGameDoWhile.exe.config
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\GuessingGameDoWhile\GuessingGameDoWhile\bin\Debug\GuessingGameDoWhile.exe
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\GuessingGameDoWhile\GuessingGameDoWhile\bin\Debug\GuessingGameDoWhile.pdb
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\GuessingGameDoWhile\GuessingGameDoWhile\obj\Debug\GuessingGameDoWhile.csproj.AssemblyReference.cache
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\GuessingGameDoWhile\GuessingGameDoWhile\obj\Debug\GuessingGameDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\GuessingGameDoWhile\GuessingGameDoWhile\obj\Debug\GuessingGameDoWhile.exe
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\GuessingGameDoWhile\GuessingGameDoWhile\obj\Debug\GuessingGameDoWhile.pdb
