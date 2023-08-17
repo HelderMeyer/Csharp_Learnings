@@ -17,7 +17,7 @@ namespace ForLoops
             }
             foreach (int i in luckyNumbers)
             {
-                Console.WriteLine(i);
+                Console.WriteLine(i); //Update
             }
         }
     }
