@@ -1,0 +1,7 @@
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\ExponentMethod\ExponentMethod\bin\Debug\ExponentMethod.exe.config
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\ExponentMethod\ExponentMethod\bin\Debug\ExponentMethod.exe
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\ExponentMethod\ExponentMethod\bin\Debug\ExponentMethod.pdb
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\ExponentMethod\ExponentMethod\obj\Debug\ExponentMethod.csproj.AssemblyReference.cache
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\ExponentMethod\ExponentMethod\obj\Debug\ExponentMethod.csproj.CoreCompileInputs.cache
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\ExponentMethod\ExponentMethod\obj\Debug\ExponentMethod.exe
+C:\Users\ba10185\Desktop\Projects\Csharp_Learnings\ExponentMethod\ExponentMethod\obj\Debug\ExponentMethod.pdb
