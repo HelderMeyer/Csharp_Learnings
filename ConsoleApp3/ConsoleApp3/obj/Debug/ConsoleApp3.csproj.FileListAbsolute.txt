@@ -1,0 +1,7 @@
+C:\Users\ba10185\Desktop\Projects\C#Learnings\Csharp_Learnings\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\ba10185\Desktop\Projects\C#Learnings\Csharp_Learnings\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\ba10185\Desktop\Projects\C#Learnings\Csharp_Learnings\ConsoleApp3\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\ba10185\Desktop\Projects\C#Learnings\Csharp_Learnings\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.AssemblyReference.cache
+C:\Users\ba10185\Desktop\Projects\C#Learnings\Csharp_Learnings\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Users\ba10185\Desktop\Projects\C#Learnings\Csharp_Learnings\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\ba10185\Desktop\Projects\C#Learnings\Csharp_Learnings\ConsoleApp3\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
